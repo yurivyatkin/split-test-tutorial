@@ -1,0 +1,6 @@
+version: '3.4'
+services:
+  my-container:
+    image: devops-bliss-ex1
+    ports:
+      - 3000:3000
